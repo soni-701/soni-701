@@ -1,4 +1,4 @@
- Hi, I'm Soni Yadav 
+ Hi, I am Soni Yadav .
 
 ## About Me
 
@@ -21,9 +21,7 @@ I enjoy building practical projects, learning new technologies, and improving my
 
 - **Invoice Generator** — Create professional invoices with automatic calculations, print support, and responsive design.
 
-- **Developer Routine Tracker** *(Upcoming)* — Track daily coding goals, learning progress, and productivity.
-
-- **Employee Attendance Management System** *(Upcoming)* — Manage attendance records with a simple dashboard.
+- **Preparation Tracker** — Track daily coding goals, learning progress, and productivity.
 
 ---
 
