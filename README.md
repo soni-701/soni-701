@@ -1,43 +1,100 @@
- Hi, I am Soni Yadav .
+# 👋 Hi, I'm Soni Yadav
 
-## About Me
-
-B.Tech IT Student passionate about Web Development and problem solving.
-
-I enjoy building practical projects, learning new technologies, and improving my coding skills every day.
+🚀 **Aspiring Full Stack Web Developer** | 💻 MERN Stack Learner | 📚 DSA Enthusiast | 🎓 B.Tech IT Student
 
 ---
 
-## 🔗 Tech Stack
+## 💫 About Me
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub, VS Code
-- **Currently Learning:** DSA, Advanced JavaScript
-
----
-
-## 🚀 Projects
-
-- **Invoice Generator** — Create professional invoices with automatic calculations, print support, and responsive design.
-
-- **Preparation Tracker** — Track daily coding goals, learning progress, and productivity.
+* 🎓 B.Tech Information Technology Student
+* 🌱 Currently learning **MERN Stack** and **Data Structures & Algorithms**
+* 💻 Passionate about building real-world web applications
+* 🚀 Interested in Full Stack Development, Open Source, and Problem Solving
+* 🎯 Goal: Become a Software Engineer at a top product-based company
 
 ---
 
-## 💻 Coding Profiles
+## 🛠 Tech Stack
 
-- **GitHub:** https://github.com/soni-701
-- **LeetCode:** https://leetcode.com/u/Soni_1010/
+**Languages**
+
+* C++
+* JavaScript
+* HTML5
+* CSS3
+* Java (Basic)
+* Python (Basic)
+
+**Frontend**
+
+* React
+* Tailwind CSS
+* Bootstrap
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Database**
+
+* MongoDB
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Postman
 
 ---
 
-## 🎯 Goals
+## 🚀 Featured Projects
 
-I am focused on becoming a skilled Frontend Developer and securing software development internships while continuously improving my development and problem-solving skills.
+### 🏨 Hotel Booking App
+
+A full-stack MERN application for hotel booking with authentication, hotel management, and responsive UI.
+
+### 📄 Invoice Generator
+
+Generate professional invoices with automatic calculations and PDF download.
+
+### 📅 Developer Routine Tracker
+
+Track daily coding goals, habits, and productivity.
 
 ---
 
-## 📫 Contact
+## 📈 GitHub Stats
 
-- Email: soniyadv7001@gmail.com
+Add your GitHub Stats, Streak Stats, and Top Languages cards here using your GitHub username.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React
+* Node.js & Express
+* MongoDB
+* REST APIs
+* System Design Basics
+
+---
+
+## 🏆 Achievements
+
+* ✅ DSA Practice
+* ✅ Web Development Projects
+* ✅ Open Source Learner
+* ✅ Continuous Learning
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐ **"Keep Learning • Keep Building • Keep Growing."**
