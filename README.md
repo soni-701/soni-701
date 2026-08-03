@@ -92,8 +92,8 @@ Add your GitHub Stats, Streak Stats, and Top Languages cards here using your Git
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/soni-yadav-9a7557339
+* 📧 Email: soniyadv7001@gmail.com
 
 ---
 
