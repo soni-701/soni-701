@@ -1,100 +1,41 @@
-# 👋 Hi, I'm Soni Yadav
 
-🚀 **Aspiring Full Stack Web Developer** | 💻 MERN Stack Learner | 📚 DSA Enthusiast | 🎓 B.Tech IT Student
+<div align="center">
 
----
+<!-- HERO BANNER -->
 
-## 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Soni%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
-* 🎓 B.Tech Information Technology Student
-* 🌱 Currently learning **MERN Stack** and **Data Structures & Algorithms**
-* 💻 Passionate about building real-world web applications
-* 🚀 Interested in Full Stack Development, Open Source, and Problem Solving
-* 🎯 Goal: Become a Software Engineer at a top product-based company
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Soni+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;B.Tech+IT+Student+%F0%9F%8E%93;DSA+Enthusiast+%F0%9F%A7%A0;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" />
 
-## 🛠 Tech Stack
+<br><br>
 
-**Languages**
+<a href="https://github.com/soni-701">
+<img src="https://img.shields.io/github/followers/soni-701?label=Followers&style=for-the-badge&logo=github&color=6e40c9"/>
+</a>
 
-* C++
-* JavaScript
-* HTML5
-* CSS3
-* Java (Basic)
-* Python (Basic)
+<a href="https://github.com/soni-701?tab=repositories">
+<img src="https://img.shields.io/github/stars/soni-701?label=Stars&style=for-the-badge&logo=github&color=ff69b4"/>
+</a>
 
-**Frontend**
+<img src="https://komarev.com/ghpvc/?username=soni-701&style=for-the-badge&color=blueviolet"/>
 
-* React
-* Tailwind CSS
-* Bootstrap
-
-**Backend**
-
-* Node.js
-* Express.js
-
-**Database**
-
-* MongoDB
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Postman
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 About Me
 
-### 🏨 Hotel Booking App
-
-A full-stack MERN application for hotel booking with authentication, hotel management, and responsive UI.
-
-### 📄 Invoice Generator
-
-Generate professional invoices with automatic calculations and PDF download.
-
-### 📅 Developer Routine Tracker
-
-Track daily coding goals, habits, and productivity.
-
----
-
-## 📈 GitHub Stats
-
-Add your GitHub Stats, Streak Stats, and Top Languages cards here using your GitHub username.
-
----
-
-## 🌱 Currently Learning
-
-* Advanced React
-* Node.js & Express
-* MongoDB
-* REST APIs
-* System Design Basics
-
----
-
-## 🏆 Achievements
-
-* ✅ DSA Practice
-* ✅ Web Development Projects
-* ✅ Open Source Learner
-* ✅ Continuous Learning
-
----
-
-## 🤝 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/soni-yadav-9a7557339
-* 📧 Email: soniyadv7001@gmail.com
-
----
-
-⭐ **"Keep Learning • Keep Building • Keep Growing."**
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│   👋 Hi, I'm Soni Yadav                            │
+│                                                    │
+│   🎓 B.Tech Information Technology Student         │
+│   💻 Aspiring Full-Stack Developer                 │
+│   🧠 DSA & Problem Solving Enthusiast              │
+│   🚀 Love building real-world applications         │
+│   🌱 Currently improving my backend skills         │
+│                                                    │
+╰────────────────────────────────────────────────────╯
