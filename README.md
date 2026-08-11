@@ -107,16 +107,3 @@ Thanks for visiting my profile! 💜
 </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 
-
-## 📌 Ab tumhe kya karna hai?
-
-**Bas 4 steps:**
-
-1. GitHub → **New Repository**
-2. Repository name: **`soni-701`**
-3. `README.md` open karo → ✏️ **Edit**
-4. Upar wala **poora code copy → paste → Commit changes**
-
-Phir `github.com/soni-701` open karna. Tumhara profile **dark neon premium style** mein dikhega. ✨
-
-**Note:** LinkedIn link maine intentionally nahi dala hai, kyunki tumne mujhe apna exact LinkedIn URL nahi diya. Baad mein woh bhi add kar sakte hain.
