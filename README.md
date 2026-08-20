@@ -81,11 +81,11 @@ A web application for creating invoices with item details, calculations and invo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soni-701&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soni-701&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=soni-701&hide_border=true&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soni-701&bg_color=0D1117&color=8B5CF6&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soni-701&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
