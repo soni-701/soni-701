@@ -56,7 +56,7 @@ An AI-powered interview practice project designed to help users prepare for inte
 ### 🏨 Hotel Booking Application
 A full-stack hotel booking application built while learning MERN-stack development.
 
-🔗 <a href="https://github.com/soni-701/Hotel-Booking">GitHub Repository</a>
+🔗 <a href="https://quick-bite-client-roan.vercel.app/">Live Demo</a>
 
 ### 🧾 Invoice Generator
 A web application for creating invoices with item details, calculations and invoice generation.
